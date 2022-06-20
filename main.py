@@ -12,4 +12,6 @@ def notify(title, text, sound):
 
 
 if __name__ == '__main__':
-    notify('Sample Title', f"This is the result {10}", 'Glass')
+    notify('Уведомление', "Не кусай яблоко", 'Blow')
+
+# sound names: Basso, Blow, Bottle, Frog, Glass, Hero, Morse, Ping, Pop, Purr, Sosumi, Submarine, Tink
